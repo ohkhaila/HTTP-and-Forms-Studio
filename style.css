@@ -1,0 +1,15 @@
+body{
+    background-color: darkseagreen;
+    color: whitesmoke;
+    padding: 50px;
+    margin: 100px;
+}
+
+#searchForm{
+    background-color: thistle;
+    border-color: lavender;
+    border-style: solid;
+    border-width: 10px;
+    padding: 10px;
+    font-weight: bold;
+}
